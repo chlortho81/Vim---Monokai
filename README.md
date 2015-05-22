@@ -8,7 +8,7 @@ began adopting vim for efficiency.
 
 Replace your vimrc file with mine. It is typically found in 
 /usr/share/vim
-You will probably have to root to accomplish this
+You will probably have to be root to accomplish this
 
 Then add the monokai.vim file to your colors directory. It is typically
 found in /usr/share/vim/vim74/colors
